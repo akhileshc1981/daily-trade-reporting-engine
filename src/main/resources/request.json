@@ -1,0 +1,49 @@
+{
+    "tradeEntity": [
+        {
+            "entityName": "foo",
+            "buyOrSell":"B",
+            "agreedFx": 0.50,
+            "currency": "AED",
+            "instructionDate":"26/04/2019" ,
+            "settlementDate": "26/04/2019",
+            "units": "10",
+            "pricePerUnit": 100.25
+          
+        },
+         {
+            "entityName": "bar",
+            "buyOrSell":"B",
+            "agreedFx": 0.40,
+            "currency": "SGP",
+            "instructionDate":"28/04/2019" ,
+            "settlementDate": "28/04/2019",
+            "units": "10",
+            "pricePerUnit": 100.25
+          
+        },
+         {
+            "entityName": "foo1",
+            "buyOrSell":"S",
+            "agreedFx": 0.40,
+            "currency": "SAR",
+            "instructionDate":"23/04/2019" ,
+            "settlementDate": "28/04/2019",
+            "units": "10",
+            "pricePerUnit": 200.25
+          
+        }
+        ,
+         {
+            "entityName": "bar",
+            "buyOrSell":"S",
+            "agreedFx": 0.40,
+            "currency": "SAR",
+            "instructionDate":"28/04/2019" ,
+            "settlementDate": "28/04/2019",
+            "units": "10",
+            "pricePerUnit": 120.25
+          
+        }
+    ]
+}
